@@ -319,5 +319,4 @@ Ahora puedes abrir StarUML sin el aviso de licencia y exportar diagramas en alta
 ![Exportación de diagramas](screenshot.png)
 
 > [!NOTE]  
-> Puedes ejecutar el script en Powershell que hace todo esto automáticamente
-> [Descargar](https://raw.githubusercontent.com/RicardoAndrex9/staruml-full-license/refs/heads/main/script-license.ps1?token=GHSAT0AAAAAADBYYQIJPVGWQHDUQMWRESIYZ75OXOQ)
+> Puedes [descargar el script en PowerShell](https://raw.githubusercontent.com/RicardoAndrex9/staruml-full-license/refs/heads/main/script-license.ps1?token=GHSAT0AAAAAADBYYQIJPVGWQHDUQMWRESIYZ75OXOQ) que realiza todo este proceso automáticamente.
