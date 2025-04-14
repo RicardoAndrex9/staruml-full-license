@@ -317,3 +317,7 @@ rmdir /s /q app
 Ahora puedes abrir StarUML sin el aviso de licencia y exportar diagramas en alta calidad sin marca de agua.
 
 ![Exportación de diagramas](screenshot.png)
+
+> [!NOTE]  
+> Puedes ejecutar el script en Powershell que hace todo esto automáticamente
+> [Descargar](https://github.com/RicardoAndrex9/staruml-full-license/blob/1cb950175d66096483d662515584b80942ad0c34/script-license.ps1#L1)
